@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">B33_GroceryShoppingList</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="page_1">Sample Product</string>
+    <string name="page_2">Shopping List</string>
+    <string name="page_3">Previous Added Items</string>
+
+    <string name="fragment_a1">Fragment A1</string>
+    <string name="fragment_a2">Fragment A2</string>
+    <string name="fragment_a3">Fragment A3</string>
+    <string name="fragment_b1">Fragment B1</string>
+    <string name="fragment_b2">Fragment B2</string>
+    <string name="fragment_b3">Fragment B3</string>
+    <string name="fragment_c1">Fragment C1</string>
+    <string name="fragment_common">Fragment common</string>
+    <string name="next_fragment">Next Fragment</string>
+
+</resources>
